@@ -18,7 +18,7 @@ The **CPU Viewer** tool provides a real-time visualization of **CPU and Memory u
 Create a virtual environment inside the `CPU Viewer` directory:
 
 ```bash
-python -m venv "CPU Viewer/venv"
+python -m venv venv
 ```
 
 Activate the virtual environment:
