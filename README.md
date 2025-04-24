@@ -25,7 +25,7 @@ Activate the virtual environment:
 
 On **Windows**:
 ```bash
-CPU Viewer\venv\Scripts.\activate
+venv\Scripts.\activate
 ```
 
 On **macOS/Linux**:
