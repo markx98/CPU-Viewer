@@ -62,7 +62,7 @@ The executable file will be located in the `dist` folder as `CPUVw.exe`.
 
 To run the script directly:
 ```bash
-python script.py
+python CPUVw.py
 ```
 
 Or, click the executable file located in the `dist` folder.
